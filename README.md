@@ -1,4 +1,4 @@
-# NovaBook Tax API
+# Tax API
 
 This API is designed to manage sales transaction events and tax payments. It allows ingestion of transactions, querying the tax position on a specific date, and amending sales items.
 
